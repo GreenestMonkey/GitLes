@@ -1,1 +1,7 @@
 //code van billy
+
+let kaas = "kaas";
+//
+if(kaas == "kaas") {
+    console.log("kaas");
+}
