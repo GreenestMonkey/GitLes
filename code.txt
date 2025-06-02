@@ -1,7 +1,10 @@
 //code van billy
 
+
+
+//refactoring lolol
+function kaas() {
 let kaas = "kaas";
-//
 if(kaas == "kaas") {
     console.log("kaas");
 }
@@ -14,3 +17,5 @@ super enge code die een game moet voorstellen
 
 ja
 pizza
+console.log("hello world!");
+}
