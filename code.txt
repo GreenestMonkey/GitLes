@@ -21,3 +21,7 @@ console.log("hello world!");
 }
 
 Alex
+
+function hackingLol() {
+    console.log("hacking the firewall");
+}
