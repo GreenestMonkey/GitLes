@@ -5,3 +5,12 @@ let kaas = "kaas";
 if(kaas == "kaas") {
     console.log("kaas");
 }
+
+Hallo ik ben belangerijk
+//code hier
+for loop
+
+super enge code die een game moet voorstellen
+
+ja
+pizza
