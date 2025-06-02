@@ -1,7 +1,12 @@
 //code van billy
 
+
+
+//refactoring lolol
+function kaas() {
 let kaas = "kaas";
-//
 if(kaas == "kaas") {
     console.log("kaas");
+}
+console.log("hello world!");
 }
